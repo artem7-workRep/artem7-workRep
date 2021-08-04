@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=artem7-workRep" alt="https://github.com/artem7-workRep" />
+</p>
