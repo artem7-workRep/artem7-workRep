@@ -16,6 +16,6 @@
 <img align="left" alt="Intellij Idea" width="100px" src="https://spring.io/images/OG-Spring.png" />
 <img align="left" alt="Intellij Idea" width="100px" src="https://roufid.com/wp-content/uploads/2016/05/eyecatch-maven.png" />
 <img align="left" alt="OracleDatabase" width="100px" src="https://www.fujitsu.com/ru/Images/oracle-db580x224_tcm29-40873.jpg" />
-<img align="left" alt="PostgreSQl" width="100px" src="https://commons.bmstu.wiki/images/1/19/Postgresql-logo.png" />
+<img align="left" alt="PostgreSQl" width="100px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 <img align="left" alt="Bash" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/285px-Gnu-bash-logo.svg.png" />
 
